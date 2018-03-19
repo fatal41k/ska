@@ -1,0 +1,5 @@
+1. git clone -ssilka
+3. git add . (-smena failow)
+2. cd nazvanie repozitoriuma
+4. git commit - m "dfgdg"
+5. git push (zagryzka v repozitorium)
